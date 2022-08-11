@@ -1,0 +1,15 @@
+E:\HomeTask_2\task_3\obj\Debug\net6.0\task_3.csproj.AssemblyReference.cache
+E:\HomeTask_2\task_3\obj\Debug\net6.0\task_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\HomeTask_2\task_3\obj\Debug\net6.0\task_3.AssemblyInfoInputs.cache
+E:\HomeTask_2\task_3\obj\Debug\net6.0\task_3.AssemblyInfo.cs
+E:\HomeTask_2\task_3\obj\Debug\net6.0\task_3.csproj.CoreCompileInputs.cache
+E:\HomeTask_2\task_3\bin\Debug\net6.0\task_3.exe
+E:\HomeTask_2\task_3\bin\Debug\net6.0\task_3.deps.json
+E:\HomeTask_2\task_3\bin\Debug\net6.0\task_3.runtimeconfig.json
+E:\HomeTask_2\task_3\bin\Debug\net6.0\task_3.dll
+E:\HomeTask_2\task_3\bin\Debug\net6.0\task_3.pdb
+E:\HomeTask_2\task_3\obj\Debug\net6.0\task_3.dll
+E:\HomeTask_2\task_3\obj\Debug\net6.0\refint\task_3.dll
+E:\HomeTask_2\task_3\obj\Debug\net6.0\task_3.pdb
+E:\HomeTask_2\task_3\obj\Debug\net6.0\task_3.genruntimeconfig.cache
+E:\HomeTask_2\task_3\obj\Debug\net6.0\ref\task_3.dll
